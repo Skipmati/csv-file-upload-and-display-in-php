@@ -1,1 +1,1 @@
-Simple code to upload and display a csv file on a page as a table
+Simple code to upload and display a CSV file on a page as a table
